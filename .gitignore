@@ -5,5 +5,3 @@ yarn-error.log
 .vscode
 **/dist
 .idea/
-**/*.mp4
-backup
